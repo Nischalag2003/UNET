@@ -1,0 +1,8 @@
+Accuracy: 0.8135
+F1 Score (Dice): 0.3191
+IoU (Jaccard): 0.1898
+ROC AUC: 0.8138
+Average Precision (AP): 0.6207
+Confusion Matrix:
+[[5045311   56071]
+ [1165937  286281]]
